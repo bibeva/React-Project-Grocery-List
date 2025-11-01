@@ -8,6 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+
 ## Welcome to 'React Project - Grocery List' learning series! 
 
 This repository contains the starter file to follow along with my tutorials.

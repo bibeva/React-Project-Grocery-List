@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 
 
 
+
 ## Welcome to 'React Project - Grocery List' learning series! 
 
 This repository contains the starter file to follow along with my tutorials.

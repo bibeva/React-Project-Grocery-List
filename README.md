@@ -13,8 +13,9 @@ Currently, two official plugins are available:
 
 This repository contains the starter file to follow along with my tutorials.
 
-If you're interested in learning with me, check out the video series on YouTube: Coming soon
-If you want to download the project, click this link: https://www.youtube.com/watch?v=EmzGGCF8chI&list=PLiUrl-SQRR7LBXXDXbD744jgHER_061r8
+If you're interested in learning with me, check out the video series on YouTube: https://www.youtube.com/watch?v=EmzGGCF8chI&list=PLiUrl-SQRR7LBXXDXbD744jgHER_061r8
+
+If you want to download the project, click this link: https://buymeacoffee.com/codewithbibek/e/489338
 
 Feel free to clone this repository and start your journey!
 
